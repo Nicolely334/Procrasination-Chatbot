@@ -37,11 +37,11 @@
     },
     {"tag": "about",
      "patterns": ["Who are you?", "What are you?", "Who you are?", "Tell me more about yourself.", "What is your name?", "What should I call you?", "What's your name?", "Tell me about yourself" ],
-     "responses": ["I'm your Personal Therapeutic AI Assistant. How are you feeling today", "I'm a Therapeutic AI Assitant designed to assist you. Tell me about yourself."]
+     "responses": ["I'm your Personal Therapeutic AI Assistant. How are you feeling today", "I'm a chatbot designed to assist you. Tell me about yourself.", "I am Pluto, a chatbot designed to assist you.", "My name is Pluto. I am a chatbot designed to assist you."]
     },
     {"tag": "skill",
         "patterns": ["What can you do?"],
-        "responses": ["I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not consider me as a subsitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."]
+        "responses": ["I am a chatbot designed to help students with procrasination."]
     },
     {"tag": "creation",
         "patterns": ["Who created you?", "How were you made?", "How were you created?"],
@@ -53,11 +53,11 @@
     },
     {"tag": "help",
     "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need support", "I need help", "Support me please"],
-    "responses": ["Sure. Tell me how can i assist you", "Tell me your problem so that i can assist you", "Yes, sure. How can I help you?"]
+    "responses": ["Sure. Tell me how can i assist you", "Tell me your problem so that I can assist you", "Yes, sure. How can I help you?"]
     },
     {"tag": "worthless",
     "patterns": ["I don't feel that I will amount to anything", "School often makes me feel worthless and I don't feel that I can follow my dreams because everything is so academically revolved around.","Why am I never good enough?", "I can never get 100", "I'll never be perfect", "My grades are so bad", "My test scores are so bad"],
-    "responses": ["Your grades do not define you. You're more intelligent than you think. Take it easy on yourself and pace your work. Of course, you can't just fool around, but you can't exert yourself to the point of exhaustion either. Screw what everyone says. Screw the negativity. It is all about you. You need to focus on yourself."]
+    "responses": ["Your grades do not define you. You're more intelligent than you think. Take it easy on yourself and pace your work. Of course, you can't just fool around, but you can't exert yourself to the point of exhaustion either. It is all about you. You need to focus on yourself."]
     },
     {"tag": "stressed",
         "patterns": ["I am so stressed out", "I am so stressed", "I feel stuck", "I still feel stressed", "I am so burned out"],
@@ -89,7 +89,7 @@
     },
     {"tag": "happy",
         "patterns": ["I feel great today.", "I am happy.", "I feel happy.", "I'm good.", "cheerful", "I'm fine", "I feel ok"],
-        "responses": ["That's geat to hear. I'm glad you're feeling this way.", "Oh I see. That's great.", "Did something happen which made you feel this way?"]
+        "responses": ["That's geat to hear. I'm glad you're feeling this way.", "Did something happen which made you feel this way?"]
     },
     {"tag": "anxious",
         "patterns": ["School gives me so much anxiety.", "I feel so anxious.", "I'm so anxious because of "],
@@ -109,7 +109,7 @@
     },
     {"tag": "done",
         "patterns": ["That's all.", "I don't have anything more to say", "Nothing else", "That's all i have to say", "no, that would be all"],
-        "responses": ["I heard you & noted it all. See you later.", "Oh okay we're done for today then. See you later", "I hope you have a great day. See you soon", "Okay we're done. Have a great day", "Okay I see. Enjoy the rest of your day then"]
+        "responses": ["I heard you & noted it all. See you later.", "Oh okay we're done for today then. See you later", "I hope you have a great day. See you soon", "Okay I see. Enjoy the rest of your day then"]
     },
     {"tag": "hate-you",
         "patterns": ["I hate you", "I don't like you", "I don't trust you"],
